@@ -1,2 +1,2 @@
 # AngularProject
-Projeto em Angular front desenvolvido no VIsual Studio.
+Projeto em Angular com ReactJs front-end desenvolvido no Visual Studio.
